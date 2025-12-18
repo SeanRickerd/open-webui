@@ -1,6 +1,6 @@
 {
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "Critical Industries AI",
+  "short_name": "CI-AI",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
